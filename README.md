@@ -85,7 +85,7 @@ jupyter notebook "IBM - Projeto pandas - Estudo.ipynb"
 
 ## 👤 Autor
 
-Pedro Silveira
+Pedro Silveira - Projeto do curso Hashtag
 
 📍 São Paulo, Brasil
 
